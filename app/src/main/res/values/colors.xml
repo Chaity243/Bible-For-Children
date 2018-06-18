@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#994848</color>
+    <color name="colorPrimaryDark">#512121</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgroubd">#8b636363</color>
+    <color name="spalsh_back">#c68f4040</color>
+    <color name="white">#ffffff</color>
+    <color name="overlay_image">#f7ecec</color>
+</resources>
