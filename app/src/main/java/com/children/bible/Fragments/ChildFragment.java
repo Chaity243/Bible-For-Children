@@ -8,6 +8,7 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.webkit.WebView;
 
 import com.children.bible.DetailActivity;
 import com.children.bible.R;
@@ -15,7 +16,7 @@ import com.children.bible.R;
 public class ChildFragment extends Fragment {
 
     private Context mContext;
-
+private WebView webview_child_story;
 
 
     @Override
@@ -28,11 +29,10 @@ public class ChildFragment extends Fragment {
 
         String file_name =   this.mContext.getResources().getStringArray(R.array.bibleIndex)[position];
         file_name=file_name.replaceAll(" ", "_");
-        String url ="https://bibleforchildren.org/PDFs/english/"+file_name+".pdf";
+        String url ="https://bibleforchildren.org/PDFs/english/"+file_name+"_English.pdf";
         System.out.println("HRA REPORT URL : "+url);
-        CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
-        CustomTabsIntent customTabsIntent = builder.build();
-        customTabsIntent.launchUrl(mContext, Uri.parse(url));
+        webview_child_story=rootView.findViewById(R.id.webview_child_story);
+        webview_child_story.loadUrl(url);
 
 
         return rootView;
