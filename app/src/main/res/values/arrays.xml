@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="bibleIndex">
-        <item>1 When God Made Everything</item>
-       <item>2 The Start of Man's Sadness</item>
-       <item>3 Noah and the Great Flood</item>
-       <item>4 God's Promise to Abraham</item>
-       <item>5 God Tests Abraham's Love</item>
-       <item>6 Jacob the Deceiver</item>
-       <item>7 A Favorite Son Becomes a Slave</item>
-       <item>8 God Honors Joseph the Slave</item>
-       <item>9 The Prince From the River</item>
-       <item>10 The Prince Becomes a Shepherd</item>
-       <item>11 Goodbye Pharaoh	Story</item>
-       <item>12 Forty Years	Story</item>
-       <item>13 Joshua Takes Charge</item>
-       <item>14 Samson, God's Strong Man</item>
-       <item>15 Gideon's Little Army</item>
-       <item>16 Ruth - A Love Story</item>
-       <item>17 Samuel, God's Boy-Servant</item>
-       <item>18 The Handsome Foolish King</item>
-       <item>19 David the Shepherd Boy</item>
-       <item>20 David the King (Part 1)</item>
-       <item>21 David the King (Part 2)</item>
-       <item>22 Wise King Solomon</item>
-       <item>23 Good Kings, Bad Kings</item>
-       <item>24 The Man of Fire</item>
-       <item>25 Elisha, Man of Miracles</item>
-       <item>26 Jonah and the Big Fish</item>
-       <item>27 Isaiah Sees the Future</item>
-       <item>28 Jeremiah, Man of Tears</item>
-       <item>29 Ezekiel: Man of Visions</item>
-       <item>30 Beautiful Queen Esther</item>
-       <item>31 Daniel the Captive</item>
-       <item>32 Daniel and the Mystery Dream</item>
-       <item>33 The Men Who Would Not Bend</item>
-       <item>34 Daniel and the Lions' Den</item>
-       <item>35 The Great Wall of Nehemiah</item>
-       <item>36 The Birth of Jesus</item>
-       <item>37 A Man Sent From God</item>
-       <item>38 A Terrible Time for Jesus</item>
-       <item>39 Jesus Chooses 12 Helpers</item>
-       <item>40 The Miracles of Jesus</item>
-       <item>41 A Temple Leader Visits Jesus</item>
-       <item>42 Jesus the Great Teacher</item>
-       <item>43 The Farmer and the Seed</item>
-       <item>44 Rich Man, Poor Man</item>
-       <item>45 The Prodigal Son	Story</item>
-       <item>46 The Good Samaritan</item>
-       <item>47 The Woman at the Well</item>
-       <item>48 Jesus Stills the Stormy Sea</item>
-       <item>49 The Girl Who Lived Twice</item>
-       <item>50 Jesus Heals the Blind</item>
-       <item>51 Jesus Feeds 5000 People</item>
-       <item>52 Jesus and Lazarus</item>
-       <item>53 Jesus and Zaccheus</item>
-       <item>54 The First Easter	Story</item>
-       <item>55 The Birth of the Church</item>
-       <item>56 The Church Meets Trouble</item>
-       <item>57 Peter and the Power of Prayer</item>
-       <item>58 From Persecutor to Preacher</item>
-       <item>59 Paul's Amazing Travels	</item>
-       <item>60 Heaven, God's Beautiful Home</item>
+        <item>When God Made Everything</item>
+       <item>The Start of Man's Sadness</item>
+       <item>Noah and the Great Flood</item>
+       <item>God's Promise to Abraham</item>
+       <item>God Tests Abraham's Love</item>
+       <item>Jacob the Deceiver</item>
+       <item>A Favorite Son Becomes a Slave</item>
+       <item>God Honors Joseph the Slave</item>
+       <item>The Prince From the River</item>
+       <item>The Prince Becomes a Shepherd</item>
+       <item>Goodbye Pharaoh Story</item>
+       <item>Forty Years Story</item>
+       <item>Joshua Takes Charge</item>
+       <item>Samson, God's Strong Man</item>
+       <item>Gideon's Little Army</item>
+       <item>Ruth - A Love Story</item>
+       <item>Samuel, God's Boy-Servant</item>
+       <item>The Handsome Foolish King</item>
+       <item>David the Shepherd Boy</item>
+       <item>David the King (Part 1)</item>
+       <item>David the King (Part 2)</item>
+       <item>Wise King Solomon</item>
+       <item>Good Kings, Bad Kings</item>
+       <item>The Man of Fire</item>
+       <item>Elisha, Man of Miracles</item>
+       <item>Jonah and the Big Fish</item>
+       <item>Isaiah Sees the Future</item>
+       <item>Jeremiah, Man of Tears</item>
+       <item>Ezekiel: Man of Visions</item>
+       <item>Beautiful Queen Esther</item>
+       <item>Daniel the Captive</item>
+       <item>Daniel and the Mystery Dream</item>
+       <item>The Men Who Would Not Bend</item>
+       <item>Daniel and the Lions' Den</item>
+       <item>The Great Wall of Nehemiah</item>
+       <item>The Birth of Jesus</item>
+       <item>A Man Sent From God</item>
+       <item>A Terrible Time for Jesus</item>
+       <item>Jesus Chooses 12 Helpers</item>
+       <item>The Miracles of Jesus</item>
+       <item>A Temple Leader Visits Jesus</item>
+       <item>Jesus the Great Teacher</item>
+       <item>The Farmer and the Seed</item>
+       <item>Rich Man, Poor Man</item>
+       <item>The Prodigal Son	Story</item>
+       <item>The Good Samaritan</item>
+       <item>The Woman at the Well</item>
+       <item>Jesus Stills the Stormy Sea</item>
+       <item>The Girl Who Lived Twice</item>
+       <item>Jesus Heals the Blind</item>
+       <item>Jesus Feeds 5000 People</item>
+       <item>Jesus and Lazarus</item>
+       <item>Jesus and Zaccheus</item>
+       <item>The First Easter	Story</item>
+       <item>The Birth of the Church</item>
+       <item>The Church Meets Trouble</item>
+       <item>Peter and the Power of Prayer</item>
+       <item>From Persecutor to Preacher</item>
+       <item>Paul's Amazing Travels	</item>
+       <item>Heaven, God's Beautiful Home</item>
 
 
     </array>
@@ -89,6 +89,73 @@
          \n 26 Then God said, “Let Us make man in Our image, according to Our likeness; let them have dominion over the fish of the sea, over the birds of the air, and over the cattle, over [g]all the earth and over every creeping thing that creeps on the earth.” 27 So God created man in His own image; in the image of God He created him; male and female He created them. 28 Then God blessed them, and God said to them, “Be fruitful and multiply; fill the earth and subdue it; have dominion over the fish of the sea, over the birds of the air, and over every living thing that [h]moves on the earth.”
 
             \n  29 And God said, “See, I have given you every herb that yields seed which is on the face of all the earth, and every tree whose fruit yields seed; to you it shall be for food. 30 Also, to every beast of the earth, to every bird of the air, and to everything that creeps on the earth, in which there is [i]life, I have given every green herb for food”; and it was so. 31 Then God saw everything that He had made, and indeed it was very good. So the evening and the morning were the sixth day.</item>
+
+        <item>Genesis 3 New King James Version (NKJV) \n
+           \n The Temptation and Fall of Man
+           \n 3 Now the serpent was more cunning than any beast of the field which the Lord God had made. And he said to the woman, “Has God indeed said, ‘You shall not eat of every tree of the garden’?”
+
+           \n 2 And the woman said to the serpent, “We may eat the fruit of the trees of the garden; 3 but of the fruit of the tree which is in the midst of the garden, God has said, ‘You shall not eat it, nor shall you touch it, lest you die.’ ”
+
+           \n 4 Then the serpent said to the woman, “You will not surely die. 5 For God knows that in the day you eat of it your eyes will be opened, and you will be like God, knowing good and evil.”
+
+           \n 6 So when the woman saw that the tree was good for food, that it was [a]pleasant to the eyes, and a tree desirable to make one wise, she took of its fruit and ate. She also gave to her husband with her, and he ate. 7 Then the eyes of both of them were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves [b]coverings.
+
+           \n 8 And they heard the [c]sound of the Lord God walking in the garden in the [d]cool of the day, and Adam and his wife hid themselves from the presence of the Lord God among the trees of the garden.
+
+           \n 9 Then the Lord God called to Adam and said to him, “Where are you?”
+
+           \n 10 So he said, “I heard Your voice in the garden, and I was afraid because I was naked; and I hid myself.”
+
+           \n 11 And He said, “Who told you that you were naked? Have you eaten from the tree of which I commanded you that you should not eat?”
+
+           \n 12 Then the man said, “The woman whom You gave to be with me, she gave me of the tree, and I ate.”
+
+           \n 13 And the Lord God said to the woman, “What is this you have done?”
+
+           \n The woman said, “The serpent deceived me, and I ate.”
+
+           \n 14 So the Lord God said to the serpent:
+
+           \n “Because you have done this,
+           \n You are cursed more than all cattle,
+           \n And more than every beast of the field;
+           \n On your belly you shall go,
+           \n And you shall eat dust
+           \n All the days of your life.
+           \n 15 And I will put enmity
+           \n Between you and the woman,
+           \n And between your seed and her Seed;
+           \n He shall bruise your head,
+           \n And you shall bruise His heel.”
+
+           \n 16 To the woman He said:
+
+           \n “I will greatly multiply your sorrow and your conception;
+           \n In pain you shall bring forth children;
+           \n Your desire shall be [e]for your husband,
+           \n And he shall rule over you.”
+
+           \n 17 Then to Adam He said, “Because you have heeded the voice of your wife, and have eaten from the tree of which I commanded you, saying, ‘You shall not eat of it’:
+
+           \n “Cursed is the ground for your sake;
+           \n In toil you shall eat of it
+           \n All the days of your life.
+           \n 18 Both thorns and thistles it shall [f]bring forth for you,
+           \n And you shall eat the herb of the field.
+           \n 19 In the sweat of your face you shall eat bread
+           \n Till you return to the ground,
+           \n For out of it you were taken;
+           \n For dust you are,
+           \n And to dust you shall return.”
+
+           \n 20 And Adam called his wife’s name Eve,[g] because she was the mother of all living.
+
+           \n 21 Also for Adam and his wife the Lord God made tunics of skin, and clothed them.
+
+           \n 22 Then the Lord God said, “Behold, the man has become like one of Us, to know good and evil. And now, lest he put out his hand and take also of the tree of life, and eat, and live forever”— 23 therefore the Lord God sent him out of the garden of Eden to till the ground from which he was taken. 24 So He drove out the man; and He placed cherubim at the east of the garden of Eden, and a flaming sword which turned every way, to guard the way to the tree of life.
+
+        </item>
+
         <item>Genesis 6 New King James Version (NKJV) \n
          \n  The Wickedness and Judgment of Man
          \n  6 Now it came to pass, when men began to multiply on the face of the earth, and daughters were born to them, 2 that the sons of God saw the daughters of men, that they were beautiful; and they took wives for themselves of all whom they chose.
@@ -106,13 +173,195 @@
          \n  13 And God said to Noah, “The end of all flesh has come before Me, for the earth is filled with violence through them; and behold, I will destroy them with the earth. 14 Make yourself an ark of gopherwood; make [g]rooms in the ark, and cover it inside and outside with pitch. 15 And this is how you shall make it: The length of the ark shall be three hundred [h]cubits, its width fifty cubits, and its height thirty cubits. 16 You shall make a window for the ark, and you shall finish it to a cubit from above; and set the door of the ark in its side. You shall make it with lower, second, and third decks. 17 And behold, I Myself am bringing floodwaters on the earth, to destroy from under heaven all flesh in which is the breath of life; everything that is on the earth shall die. 18 But I will establish My covenant with you; and you shall go into the ark—you, your sons, your wife, and your sons’ wives with you. 19 And of every living thing of all flesh you shall bring two of every sort into the ark, to keep them alive with you; they shall be male and female. 20 Of the birds after their kind, of animals after their kind, and of every creeping thing of the earth after its kind, two of every kind will come to you to keep them alive. 21 And you shall take for yourself of all food that is eaten, and you shall gather it to yourself; and it shall be food for you and for them.”
 
          \n  22 Thus Noah did; according to all that God commanded him, so he did.</item>
-        <item>3 Noah and the Great Flood</item>
-        <item>4 God's Promise to Abraham</item>
-        <item>5 God Tests Abraham's Love</item>
-        <item>6 Jacob the Deceiver</item>
-        <item>7 A Favorite Son Becomes a Slave</item>
-        <item>8 God Honors Joseph the Slave</item>
-        <item>9 The Prince From the River</item>
+
+        <item>
+             \n Genesis 11 New King James Version (NKJV)
+             \n The Tower of Babel
+             \n 11 Now the whole earth had one language and one [a]speech. 2 And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar, and they dwelt there. 3 Then they said to one another, “Come, let us make bricks and [b]bake them thoroughly.” They had brick for stone, and they had asphalt for mortar. 4 And they said, “Come, let us build ourselves a city, and a tower whose top is in the heavens; let us make a name for ourselves, lest we be scattered abroad over the face of the whole earth.”
+
+             \n 5 But the Lord came down to see the city and the tower which the sons of men had built. 6 And the Lord said, “Indeed the people are one and they all have one language, and this is what they begin to do; now nothing that they propose to do will be withheld from them. 7 Come, let Us go down and there confuse their language, that they may not understand one another’s speech.” 8 So the Lord scattered them abroad from there over the face of all the earth, and they ceased building the city. 9 Therefore its name is called [c]Babel, because there the Lord confused the language of all the earth; and from there the Lord scattered them abroad over the face of all the earth.
+
+             \n Shem’s Descendants
+             \n 10 This is the genealogy of Shem: Shem was one hundred years old, and begot Arphaxad two years after the flood. 11 After he begot Arphaxad, Shem lived five hundred years, and begot sons and daughters.
+
+             \n 12 Arphaxad lived thirty-five years, and begot Salah. 13 After he begot Salah, Arphaxad lived four hundred and three years, and begot sons and daughters.
+
+             \n 14 Salah lived thirty years, and begot Eber. 15 After he begot Eber, Salah lived four hundred and three years, and begot sons and daughters.
+
+             \n 16 Eber lived thirty-four years, and begot Peleg. 17 After he begot Peleg, Eber lived four hundred and thirty years, and begot sons and daughters.
+
+             \n 18 Peleg lived thirty years, and begot Reu. 19 After he begot Reu, Peleg lived two hundred and nine years, and begot sons and daughters.
+
+             \n 20 Reu lived thirty-two years, and begot Serug. 21 After he begot Serug, Reu lived two hundred and seven years, and begot sons and daughters.
+
+             \n 22 Serug lived thirty years, and begot Nahor. 23 After he begot Nahor, Serug lived two hundred years, and begot sons and daughters.
+
+             \n 24 Nahor lived twenty-nine years, and begot Terah. 25 After he begot Terah, Nahor lived one hundred and nineteen years, and begot sons and daughters.
+
+             \n 26 Now Terah lived seventy years, and begot [d]Abram, Nahor, and Haran.
+
+             \n Terah’s Descendants
+             \n 27 This is the genealogy of Terah: Terah begot Abram, Nahor, and Haran. Haran begot Lot. 28 And Haran died before his father Terah in his native land, in Ur of the Chaldeans. 29 Then Abram and Nahor took wives: the name of Abram’s wife was Sarai,[e] and the name of Nahor’s wife, Milcah, the daughter of Haran the father of Milcah and the father of Iscah. 30 But Sarai was barren; she had no child.
+
+            31 And Terah took his son Abram and his grandson Lot, the son of Haran, and his daughter-in-law Sarai, his son Abram’s wife, and they went out with them from Ur of the Chaldeans to go to the land of Canaan; and they came to Haran and dwelt there. 32 So the days of Terah were two hundred and five years, and Terah died in Haran.</item>
+        <item>
+            \n Genesis 22 New King James Version (NKJV)
+            \n Abraham’s Faith Confirmed
+            \n 22 Now it came to pass after these things that God tested Abraham, and said to him, “Abraham!”
+
+            \n And he said, “Here I am.”
+
+            \n 2 Then He said, “Take now your son, your only son Isaac, whom you love, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I shall tell you.”
+
+            \n 3 So Abraham rose early in the morning and saddled his donkey, and took two of his young men with him, and Isaac his son; and he split the wood for the burnt offering, and arose and went to the place of which God had told him. 4 Then on the third day Abraham lifted his eyes and saw the place afar off. 5 And Abraham said to his young men, “Stay here with the donkey; the [a]lad and I will go yonder and worship, and we will come back to you.”
+
+            \n 6 So Abraham took the wood of the burnt offering and laid it on Isaac his son; and he took the fire in his hand, and a knife, and the two of them went together. 7 But Isaac spoke to Abraham his father and said, “My father!”
+
+            \n And he said, “Here I am, my son.”
+
+            \n Then he said, “Look, the fire and the wood, but where is the [b]lamb for a burnt offering?”
+
+            \n 8 And Abraham said, “My son, God will provide for Himself the lamb for a burnt offering.” So the two of them went together.
+
+            \n 9 Then they came to the place of which God had told him. And Abraham built an altar there and placed the wood in order; and he bound Isaac his son and laid him on the altar, upon the wood. 10 And Abraham stretched out his hand and took the knife to slay his son.
+
+            \n 11 But the Angel of the Lord called to him from heaven and said, “Abraham, Abraham!”
+
+            \n So he said, “Here I am.”
+
+            \n 12 And He said, “Do not lay your hand on the lad, or do anything to him; for now I know that you fear God, since you have not withheld your son, your only son, from Me.”
+
+            \n 13 Then Abraham lifted his eyes and looked, and there behind him was a ram caught in a thicket by its horns. So Abraham went and took the ram, and offered it up for a burnt offering instead of his son. 14 And Abraham called the name of the place, [c]The-Lord-Will-Provide; as it is said to this day, “In the Mount of the Lord it shall be provided.”
+
+            \n 15 Then the Angel of the Lord called to Abraham a second time out of heaven, 16 and said: “By Myself I have sworn, says the Lord, because you have done this thing, and have not withheld your son, your only son— 17 blessing I will bless you, and multiplying I will multiply your descendants as the stars of the heaven and as the sand which is on the seashore; and your descendants shall possess the gate of their enemies. 18 In your seed all the nations of the earth shall be blessed, because you have obeyed My voice.” 19 So Abraham returned to his young men, and they rose and went together to Beersheba; and Abraham dwelt at Beersheba.
+
+            \n The Family of Nahor
+            \n 20 Now it came to pass after these things that it was told Abraham, saying, “Indeed Milcah also has borne children to your brother Nahor: 21 Huz his firstborn, Buz his brother, Kemuel the father of Aram, 22 Chesed, Hazo, Pildash, Jidlaph, and Bethuel.” 23 And Bethuel begot [d]Rebekah. These eight Milcah bore to Nahor, Abraham’s brother. 24 His concubine, whose name was Reumah, also bore Tebah, Gaham, Thahash, and Maachah.</item>
+        <item>
+            \nGenesis 25 New King James Version (NKJV)
+            \nAbraham and Keturah
+            \n25 Abraham again took a wife, and her name was Keturah. 2 And she bore him Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. 3 Jokshan begot Sheba and Dedan. And the sons of Dedan were Asshurim, Letushim, and Leummim. 4 And the sons of Midian were Ephah, Epher, Hanoch, Abidah, and Eldaah. All these were the children of Keturah.
+
+            \n5 And Abraham gave all that he had to Isaac. 6 But Abraham gave gifts to the sons of the concubines which Abraham had; and while he was still living he sent them eastward, away from Isaac his son, to the country of the east.
+
+            \nAbraham’s Death and Burial
+            \n7 This is the sum of the years of Abraham’s life which he lived: one hundred and seventy-five years. 8 Then Abraham breathed his last and died in a good old age, an old man and full of years, and was gathered to his people. 9 And his sons Isaac and Ishmael buried him in the cave of Machpelah, which is before Mamre, in the field of Ephron the son of Zohar the Hittite, 10 the field which Abraham purchased from the sons of Heth. There Abraham was buried, and Sarah his wife. 11 And it came to pass, after the death of Abraham, that God blessed his son Isaac. And Isaac dwelt at Beer Lahai Roi.
+
+            \nThe Families of Ishmael and Isaac
+            \n12 Now this is the genealogy of Ishmael, Abraham’s son, whom Hagar the Egyptian, Sarah’s maidservant, bore to Abraham. 13 And these were the names of the sons of Ishmael, by their names, according to their generations: The firstborn of Ishmael, Nebajoth; then Kedar, Adbeel, Mibsam, 14 Mishma, Dumah, Massa, 15 [a]Hadar, Tema, Jetur, Naphish, and Kedemah. 16 These were the sons of Ishmael and these were their names, by their towns and their [b]settlements, twelve princes according to their nations. 17 These were the years of the life of Ishmael: one hundred and thirty-seven years; and he breathed his last and died, and was gathered to his people. 18 (They dwelt from Havilah as far as Shur, which is east of Egypt as you go toward Assyria.) He [c]died in the presence of all his brethren.
+
+            \n19 This is the genealogy of Isaac, Abraham’s son. Abraham begot Isaac. 20 Isaac was forty years old when he took Rebekah as wife, the daughter of Bethuel the Syrian of Padan Aram, the sister of Laban the Syrian. 21 Now Isaac pleaded with the Lord for his wife, because she was barren; and the Lord granted his plea, and Rebekah his wife conceived. 22 But the children struggled together within her; and she said, “If all is well, why am I like this?” So she went to inquire of the Lord.
+
+            \n23 And the Lord said to her:
+
+            \n“Two nations are in your womb,
+            \nTwo peoples shall be separated from your body;
+            \nOne people shall be stronger than the other,
+            \nAnd the older shall serve the younger.”
+
+            \n24 So when her days were fulfilled for her to give birth, indeed there were twins in her womb. 25 And the first came out red. He was like a hairy garment all over; so they called his name [d]Esau. 26 Afterward his brother came out, and his hand took hold of Esau’s heel; so his name was called [e]Jacob. Isaac was sixty years old when she bore them.
+
+            \n27 So the boys grew. And Esau was a skillful hunter, a man of the field; but Jacob was a [f]mild man, dwelling in tents. 28 And Isaac loved Esau because he ate of his game, but Rebekah loved Jacob.
+
+            \nEsau Sells His Birthright
+            \n29 Now Jacob cooked a stew; and Esau came in from the field, and he was weary. 30 And Esau said to Jacob, “Please feed me with that same red stew, for I am weary.” Therefore his name was called [g]Edom.
+
+            \n31 But Jacob said, “Sell me your birthright as of this day.”
+
+            \n32 And Esau said, “Look, I am about to die; so what is this birthright to me?”
+
+            \n33 Then Jacob said, [h]“Swear to me as of this day.”
+
+            \n So he swore to him, and sold his birthright to Jacob. 34 And Jacob gave Esau bread and stew of lentils; then he ate and drank, arose, and went his way. Thus Esau despised his birthright.</item>
+        <item>Genesis 37 New King James Version (NKJV)
+            \n Joseph Dreams of Greatness
+            \n 37 Now Jacob dwelt in the land where his father was a [a]stranger, in the land of Canaan. 2 This is the history of Jacob.
+
+            \n Joseph, being seventeen years old, was feeding the flock with his brothers. And the lad was with the sons of Bilhah and the sons of Zilpah, his father’s wives; and Joseph brought a bad report of them to his father.
+
+            \n 3 Now Israel loved Joseph more than all his children, because he was the son of his old age. Also he made him a tunic of many colors. 4 But when his brothers saw that their father loved him more than all his brothers, they hated him and could not speak peaceably to him.
+
+            \n 5 Now Joseph had a dream, and he told it to his brothers; and they hated him even more. 6 So he said to them, “Please hear this dream which I have dreamed: 7 There we were, binding sheaves in the field. Then behold, my sheaf arose and also stood upright; and indeed your sheaves stood all around and bowed down to my sheaf.”
+
+            \n 8 And his brothers said to him, “Shall you indeed reign over us? Or shall you indeed have dominion over us?” So they hated him even more for his dreams and for his words.
+
+            \n 9 Then he dreamed still another dream and told it to his brothers, and said, “Look, I have dreamed another dream. And this time, the sun, the moon, and the eleven stars bowed down to me.”
+
+            \n 10 So he told it to his father and his brothers; and his father rebuked him and said to him, “What is this dream that you have dreamed? Shall your mother and I and your brothers indeed come to bow down to the earth before you?” 11 And his brothers envied him, but his father kept the matter in mind.
+
+            \n Joseph Sold by His Brothers
+            \n 12 Then his brothers went to feed their father’s flock in Shechem. 13 And Israel said to Joseph, “Are not your brothers feeding the flock in Shechem? Come, I will send you to them.”
+
+            \n So he said to him, “Here I am.”
+
+            \n 14 Then he said to him, “Please go and see if it is well with your brothers and well with the flocks, and bring back word to me.” So he sent him out of the Valley of Hebron, and he went to Shechem.
+
+            \n 15 Now a certain man found him, and there he was, wandering in the field. And the man asked him, saying, “What are you seeking?”
+
+            \n 16 So he said, “I am seeking my brothers. Please tell me where they are feeding their flocks.”
+
+            \n 17 And the man said, “They have departed from here, for I heard them say, ‘Let us go to Dothan.’ ” So Joseph went after his brothers and found them in Dothan.
+
+            \n 18 Now when they saw him afar off, even before he came near them, they conspired against him to kill him. 19 Then they said to one another, “Look, this [b]dreamer is coming! 20 Come therefore, let us now kill him and cast him into some pit; and we shall say, ‘Some wild beast has devoured him.’ We shall see what will become of his dreams!”
+
+            \n 21 But Reuben heard it, and he delivered him out of their hands, and said, “Let us not kill him.” 22 And Reuben said to them, “Shed no blood, but cast him into this pit which is in the wilderness, and do not lay a hand on him”—that he might deliver him out of their hands, and bring him back to his father.
+
+            \n 23 So it came to pass, when Joseph had come to his brothers, that they stripped Joseph of his tunic, the tunic of many colors that was on him. 24 Then they took him and cast him into a pit. And the pit was empty; there was no water in it.
+
+            \n 25 And they sat down to eat a meal. Then they lifted their eyes and looked, and there was a company of Ishmaelites, coming from Gilead with their camels, bearing spices, balm, and myrrh, on their way to carry them down to Egypt. 26 So Judah said to his brothers, “What profit is there if we kill our brother and conceal his blood? 27 Come and let us sell him to the Ishmaelites, and let not our hand be upon him, for he is our brother and our flesh.” And his brothers listened. 28 Then Midianite traders passed by; so the brothers pulled Joseph up and lifted him out of the pit, and sold him to the Ishmaelites for twenty shekels of silver. And they took Joseph to Egypt.
+
+            \n 29 Then Reuben returned to the pit, and indeed Joseph was not in the pit; and he tore his clothes. 30 And he returned to his brothers and said, “The lad is no more; and I, where shall I go?”
+
+            \n 31 So they took Joseph’s tunic, killed a kid of the goats, and dipped the tunic in the blood. 32 Then they sent the tunic of many colors, and they brought it to their father and said, “We have found this. Do you know whether it is your son’s tunic or not?”
+
+            \n 33 And he recognized it and said, “It is my son’s tunic. A wild beast has devoured him. Without doubt Joseph is torn to pieces.” 34 Then Jacob tore his clothes, put sackcloth on his waist, and mourned for his son many days. 35 And all his sons and all his daughters arose to comfort him; but he refused to be comforted, and he said, “For I shall go down into the grave to my son in mourning.” Thus his father wept for him.
+
+            \n 36 Now the [c]Midianites had sold him in Egypt to Potiphar, an officer of Pharaoh and captain of the guard.</item>
+        <item>Genesis 39 New King James Version (NKJV)
+             \n   \n   \n Joseph a Slave in Egypt
+             \n   \n   \n 39 Now Joseph had been taken down to Egypt. And Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him from the Ishmaelites who had taken him down there. 2 The Lord was with Joseph, and he was a successful man; and he was in the house of his master the Egyptian. 3 And his master saw that the Lord was with him and that the Lord made all he did [a]to prosper in his hand. 4 So Joseph found favor in his sight, and served him. Then he made him overseer of his house, and all that he had he put [b]under his authority. 5 So it was, from the time that he had made him overseer of his house and all that he had, that the Lord blessed the Egyptian’s house for Joseph’s sake; and the blessing of the Lord was on all that he had in the house and in the field. 6 Thus he left all that he had in Joseph’s [c]hand, and he did not know what he had except for the [d]bread which he ate.
+
+             \n   \n   \n Now Joseph was handsome in form and appearance.
+
+             \n   \n   \n 7 And it came to pass after these things that his master’s wife [e]cast longing eyes on Joseph, and she said, “Lie with me.”
+
+             \n   \n   \n 8 But he refused and said to his master’s wife, “Look, my master does not know what is with me in the house, and he has committed all that he has to my hand. 9 There is no one greater in this house than I, nor has he kept back anything from me but you, because you are his wife. How then can I do this great wickedness, and sin against God?”
+
+             \n   \n   \n 10 So it was, as she spoke to Joseph day by day, that he did not heed her, to lie with her or to be with her.
+
+             \n   \n   \n 11 But it happened about this time, when Joseph went into the house to do his work, and none of the men of the house was inside, 12 that she caught him by his garment, saying, “Lie with me.” But he left his garment in her hand, and fled and ran outside. 13 And so it was, when she saw that he had left his garment in her hand and fled outside, 14 that she called to the men of her house and spoke to them, saying, “See, he has brought in to us a Hebrew to [f]mock us. He came in to me to lie with me, and I cried out with a loud voice. 15 And it happened, when he heard that I lifted my voice and cried out, that he left his garment with me, and fled and went outside.”
+
+             \n   \n   \n 16 So she kept his garment with her until his master came home. 17 Then she spoke to him with words like these, saying, “The Hebrew servant whom you brought to us came in to me to mock me; 18 so it happened, as I lifted my voice and cried out, that he left his garment with me and fled outside.”
+
+            19 So it was, when his master heard the words which his wife spoke to him, saying, “Your servant did to me after this manner,” that his anger was aroused. 20 Then Joseph’s master took him and put him into the prison, a place where the king’s prisoners were confined. And he was there in the prison. 21 But the Lord was with Joseph and showed him mercy, and He gave[g] him favor in the sight of the keeper of the prison. 22 And the keeper of the prison committed to Joseph’s hand all the prisoners who were in the prison; whatever they did there, it was his doing. 23 The keeper of the prison did not look into anything that was under [h]Joseph’s authority, because the Lord was with him; and whatever he did, the Lord made it prosper.</item>
+        <item>Exodus 2 New King James Version (NKJV)
+            \n   \n   \nMoses Is Born
+            \n   \n   \n2 And a man of the house of Levi went and took as wife a daughter of Levi. 2 So the woman conceived and bore a son. And when she saw that he was a beautiful child, she hid him three months. 3 But when she could no longer hide him, she took an ark of bulrushes for him, daubed it with asphalt and pitch, put the child in it, and laid it in the reeds by the river’s bank. 4 And his sister stood afar off, to know what would be done to him.
+
+            \n   \n   \n5 Then the daughter of Pharaoh came down to bathe at the river. And her maidens walked along the riverside; and when she saw the ark among the reeds, she sent her maid to get it. 6 And when she opened it, she saw the child, and behold, the baby wept. So she had compassion on him, and said, “This is one of the Hebrews’ children.”
+
+            \n   \n   \n7 Then his sister said to Pharaoh’s daughter, “Shall I go and call a nurse for you from the Hebrew women, that she may nurse the child for you?”
+
+            \n   \n   \n8 And Pharaoh’s daughter said to her, “Go.” So the maiden went and called the child’s mother. 9 Then Pharaoh’s daughter said to her, “Take this child away and nurse him for me, and I will give you your wages.” So the woman took the child and nursed him. 10 And the child grew, and she brought him to Pharaoh’s daughter, and he became her son. So she called his name [a]Moses, saying, “Because I drew him out of the water.”
+
+            \n   \n   \nMoses Flees to Midian
+            \n   \n   \n11 Now it came to pass in those days, when Moses was grown, that he went out to his brethren and looked at their burdens. And he saw an Egyptian beating a Hebrew, one of his brethren. 12 So he looked this way and that way, and when he saw no one, he killed the Egyptian and hid him in the sand. 13 And when he went out the second day, behold, two Hebrew men were fighting, and he said to the one who did the wrong, “Why are you striking your companion?”
+
+            \n   \n   \n14 Then he said, “Who made you a prince and a judge over us? Do you intend to kill me as you killed the Egyptian?”
+
+            \n   \n   \nSo Moses feared and said, “Surely this thing is known!” 15 When Pharaoh heard of this matter, he sought to kill Moses. But Moses fled from [b]the face of Pharaoh and dwelt in the land of Midian; and he sat down by a well.
+
+            \n   \n   \n16 Now the priest of Midian had seven daughters. And they came and drew water, and they filled the troughs to water their father’s flock. 17 Then the shepherds came and drove them away; but Moses stood up and helped them, and watered their flock.
+
+            \n   \n   \n18 When they came to Reuel[c] their father, he said, “How is it that you have come so soon today?”
+
+            \n   \n   \n19 And they said, “An Egyptian delivered us from the hand of the shepherds, and he also drew enough water for us and watered the flock.”
+
+            \n   \n   \n20 So he said to his daughters, “And where is he? Why is it that you have left the man? Call him, that he may eat bread.”
+
+            \n   \n   \n21 Then Moses was content to live with the man, and he gave Zipporah his daughter to Moses. 22 And she bore him a son. He called his name Gershom,[d] for he said, “I have been a [e]stranger in a foreign land.”
+
+            \n   \n   \n23 Now it happened in the process of time that the king of Egypt died. Then the children of Israel groaned because of the bondage, and they cried out; and their cry came up to God because of the bondage. 24 So God heard their groaning, and God remembered His covenant with Abraham, with Isaac, and with Jacob. 25 And God looked upon the children of Israel, and God acknowledged them.</item>
         <item>10 The Prince Becomes a Shepherd</item>
         <item>11 Goodbye Pharaoh	Story</item>
         <item>12 Forty Years	Story</item>

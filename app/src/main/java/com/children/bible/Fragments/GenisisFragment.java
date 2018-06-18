@@ -25,9 +25,9 @@ public class GenisisFragment  extends Fragment {
 
         mContext = getActivity();
         DetailActivity activity = (DetailActivity) getActivity();
-        String myDataFromActivity = activity.getMyData();
+        int position = activity.getPosition();
         tv_genesis=rootView.findViewById(R.id.tv_genesis);
-        tv_genesis.setText(this.context.getResources().getStringArray(R.array.bibleGenesis)[position]);
+        tv_genesis.setText(this.mContext.getResources().getStringArray(R.array.bibleGenesis)[position]);
 
 
 
