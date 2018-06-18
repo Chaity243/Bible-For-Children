@@ -50,10 +50,10 @@ public class MyViewHolder extends RecyclerView.ViewHolder {
         holder.index_rl.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-//                Intent i = new Intent(context,DetailActivity.class);
-//                i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-//                i.putExtra("position", position);
-//                context.startActivity(i);
+                Intent i = new Intent(context,DetailActivity.class);
+                i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                i.putExtra("position", position);
+                context.startActivity(i);
             }
         });
 
