@@ -9,6 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebView;
+import android.webkit.WebViewClient;
 
 import com.children.bible.DetailActivity;
 import com.children.bible.R;
@@ -32,7 +33,16 @@ private WebView webview_child_story;
         String url ="https://bibleforchildren.org/PDFs/english/"+file_name+"_English.pdf";
         System.out.println("HRA REPORT URL : "+url);
         webview_child_story=rootView.findViewById(R.id.webview_child_story);
-        webview_child_story.loadUrl(url);
+        webview_child_story.getSettings().setJavaScriptEnabled(true);
+        webview_child_story.setWebViewClient(new WebViewClient() {
+
+            @Override
+            public boolean shouldOverrideUrlLoading(WebView view, String url) {
+                view.loadUrl("http://drive.google.com/viewerng/viewer?embedded=true&url=" + url);
+                return true;
+            }
+        });
+
 
 
         return rootView;
