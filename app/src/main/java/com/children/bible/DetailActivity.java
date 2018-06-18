@@ -39,15 +39,16 @@ public class DetailActivity  extends AppCompatActivity {
         Bundle extras = getIntent().getExtras();
 
 
-//        if (extras != null) {
-//            position = extras.getInt("position");
-//            getSupportActionBar().setTitle(this.context.getResources().getStringArray(R.array.bibleIndex)[position]);
-//            // and get whatever type user account id is
-//        }
-//        String strVar="essay"+String.valueOf(position);
-//        tv_content.setText(this.context.getResources().getStringArray(R.array.bibleGenesis)[position]);
-    }
+        if (extras != null) {
+            position = extras.getInt("position");
+            getSupportActionBar().setTitle(this.context.getResources().getStringArray(R.array.bibleIndex)[position]);
+            // and get whatever type user account id is
+        }
 
+    }
+    public int getPosition() {
+        return position;
+    }
 
 
 }
