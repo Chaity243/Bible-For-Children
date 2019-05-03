@@ -2,10 +2,10 @@
 <resources>
     <array name="bibleIndex">
         <item>When God Made Everything</item>
-       <item>The Start of Man's Sadness</item>
+       <item>The Start of Man\'s Sadness</item>
        <item>Noah and the Great Flood</item>
-       <item>God's Promise to Abraham</item>
-       <item>God Tests Abraham's Love</item>
+       <item>God\'s Promise to Abraham</item>
+       <item>God Tests Abraham\'s Love</item>
        <item>Jacob the Deceiver</item>
        <item>A Favorite Son Becomes a Slave</item>
        <item>God Honors Joseph the Slave</item>
@@ -14,10 +14,10 @@
        <item>Goodbye Pharaoh</item>
        <item>Forty Years</item>
        <item>Joshua Takes Charge</item>
-       <item>Samson, God's Strong Man</item>
-       <item>Gideon's Little Army</item>
+       <item>Samson, God\'s Strong Man</item>
+       <item>Gideon\'s Little Army</item>
        <item>Ruth - A Love Story</item>
-       <item>Samuel, God's Boy-Servant</item>
+       <item>Samuel, God\'s Boy-Servant</item>
        <item>The Handsome Foolish King</item>
        <item>David the Shepherd Boy</item>
        <item>David the King (Part 1)</item>
@@ -34,7 +34,7 @@
        <item>Daniel the Captive</item>
        <item>Daniel and the Mystery Dream</item>
        <item>The Men Who Would Not Bend</item>
-       <item>Daniel and the Lions' Den</item>
+       <item>Daniel and the Lions\' Den</item>
        <item>The Great Wall of Nehemiah</item>
        <item>The Birth of Jesus</item>
        <item>A Man Sent From God</item>
@@ -59,8 +59,8 @@
        <item>The Church Meets Trouble</item>
        <item>Peter and the Power of Prayer</item>
        <item>From Persecutor to Preacher</item>
-       <item>Paul's Amazing Travels	</item>
-       <item>Heaven, God's Beautiful Home</item>
+       <item>Paul\'s Amazing Travels	</item>
+       <item>Heaven, God\'s Beautiful Home</item>
 
 
     </array>
@@ -634,7 +634,7 @@
               \n   \n   \n20 But she said to them, “Do not call me [g]Naomi; call me [h]Mara, for the Almighty has dealt very bitterly with me. 21 I went out full, and the Lord has brought me home again empty. Why do you call me Naomi, since the Lord has testified against me, and [i]the Almighty has afflicted me?”
 
               \n   \n   \n22 So Naomi returned, and Ruth the Moabitess her daughter-in-law with her, who returned from the country of Moab. Now they came to Bethlehem at the beginning of barley harvest.</item>
-        <item>17 Samuel, God's Boy-Servant</item>
+        <item>17 Samuel, God\'s Boy-Servant</item>
         <item>18 The Handsome Foolish King</item>
         <item>19 David the Shepherd Boy</item>
         <item>20 David the King (Part 1)</item>
@@ -651,7 +651,7 @@
         <item>31 Daniel the Captive</item>
         <item>32 Daniel and the Mystery Dream</item>
         <item>33 The Men Who Would Not Bend</item>
-        <item>34 Daniel and the Lions' Den</item>
+        <item>34 Daniel and the Lions\' Den</item>
         <item>35 The Great Wall of Nehemiah</item>
         <item>36 The Birth of Jesus</item>
         <item>37 A Man Sent From God</item>
@@ -676,8 +676,8 @@
         <item>56 The Church Meets Trouble</item>
         <item>57 Peter and the Power of Prayer</item>
         <item>58 From Persecutor to Preacher</item>
-        <item>59 Paul's Amazing Travels	</item>
-        <item>60 Heaven, God's Beautiful Home</item>
+        <item>59 Paul\'s Amazing Travels	</item>
+        <item>60 Heaven, God\'s Beautiful Home</item>
 
 
     </array>

@@ -1,4 +1,4 @@
-package com.children.bible;
+package com.chaitanyagoldmine.bibleforchildren;
 
 import android.content.Context;
 import android.content.Intent;

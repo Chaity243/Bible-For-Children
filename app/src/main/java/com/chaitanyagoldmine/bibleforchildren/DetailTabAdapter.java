@@ -1,12 +1,12 @@
-package com.children.bible;
+package com.chaitanyagoldmine.bibleforchildren;
 
 import android.content.Context;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-import com.children.bible.Fragments.ChildFragment;
-import com.children.bible.Fragments.GenisisFragment;
+import com.chaitanyagoldmine.bibleforchildren.Fragments.ChildFragment;
+import com.chaitanyagoldmine.bibleforchildren.Fragments.GenisisFragment;
 
 public class DetailTabAdapter extends FragmentPagerAdapter {
     private Context context;

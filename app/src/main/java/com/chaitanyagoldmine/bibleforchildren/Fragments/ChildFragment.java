@@ -1,9 +1,7 @@
-package com.children.bible.Fragments;
+package com.chaitanyagoldmine.bibleforchildren.Fragments;
 
 import android.content.Context;
-import android.net.Uri;
 import android.os.Bundle;
-import android.support.customtabs.CustomTabsIntent;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -12,10 +10,8 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
-import com.children.bible.DetailActivity;
-import com.children.bible.R;
-
-import javax.security.auth.callback.Callback;
+import com.chaitanyagoldmine.bibleforchildren.DetailActivity;
+import com.chaitanyagoldmine.bibleforchildren.R;
 
 public class ChildFragment extends Fragment {
 

@@ -1,4 +1,4 @@
-package com.children.bible;
+package com.chaitanyagoldmine.bibleforchildren;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -6,12 +6,7 @@ import android.support.annotation.Nullable;
 import android.support.design.widget.TabLayout;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
 import android.widget.TextView;
-
-import org.json.JSONArray;
-
-import java.util.ArrayList;
 
 public class DetailActivity  extends AppCompatActivity {
 

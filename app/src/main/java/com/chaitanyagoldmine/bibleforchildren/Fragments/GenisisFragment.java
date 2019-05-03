@@ -1,16 +1,15 @@
-package com.children.bible.Fragments;
+package com.chaitanyagoldmine.bibleforchildren.Fragments;
 
 import android.content.Context;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.children.bible.DetailActivity;
-import com.children.bible.R;
+import com.chaitanyagoldmine.bibleforchildren.DetailActivity;
+import com.chaitanyagoldmine.bibleforchildren.R;
 
 public class GenisisFragment  extends Fragment {
 

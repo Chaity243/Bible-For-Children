@@ -1,4 +1,4 @@
-package com.children.bible;
+package com.chaitanyagoldmine.bibleforchildren;
 
 import org.junit.Test;
 
